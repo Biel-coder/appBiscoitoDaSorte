@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center">
 <img src="https://ik.imagekit.io/i2b0fdzq04n/tr:w-342,h-717,cm-extract,x-47,y-79/Inicio_cxo6tzY80R.png" />
-<img src="https://ik.imagekit.io/i2b0fdzq04n/Biscoito_Quebrado_SmXgPgpX9u.png" />
+<img src="https://ik.imagekit.io/i2b0fdzq04n/tr:w-380,h-756,cm-extract,x-31,y-63/Biscoito_Quebrado_SmXgPgpX9u.png" />
 </h1>
 
 ## 🧾✍🏼 Sobre
